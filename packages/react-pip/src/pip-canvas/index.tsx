@@ -22,11 +22,11 @@ interface Props {
   /**
    * 每帧缩小比例，用于正向动画
    */
-  scale?: number; //ms
+  scale?: number;
   /**
    * 每帧放大比例，用于反向动画
    */
-  scaleReturn?: number; //ms
+  scaleReturn?: number;
   /**
    * 画布宽度
    */
