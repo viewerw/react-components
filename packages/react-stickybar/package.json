@@ -6,7 +6,7 @@
     "stickybar"
   ],
   "author": "viwer <weiyaun.wang@shanbay.com>",
-  "homepage": "",
+  "homepage": "https://viewerw.github.io/react-components",
   "license": "ISC",
   "module": "es/index.js",
   "typings": "es/index.d.ts",
