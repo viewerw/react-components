@@ -18,7 +18,9 @@
   "files": [
     "lib"
   ],
-  "sideEffects":false,
+  "sideEffects": [
+    "src/*.less"
+  ],
   "publishConfig": {
     "registry": "https://registry.npm.taobao.org/"
   },

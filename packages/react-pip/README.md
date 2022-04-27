@@ -1,11 +1,3 @@
 # `@viewer/react-pip`
 
-> TODO: description
-
-## Usage
-
-```
-const reactPip = require('@viewer/react-pip');
-
-// TODO: DEMONSTRATE API
-```
+[文档地址](https://viewerw.github.io/react-components/react-stickybar)

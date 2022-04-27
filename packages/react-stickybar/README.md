@@ -1,11 +1,3 @@
 # `@viewer/react-stickybar`
 
-> TODO: description
-
-## Usage
-
-```
-const reactStickybar = require('@viewer/react-stickybar');
-
-// TODO: DEMONSTRATE API
-```
+[文档地址](https://viewerw.github.io/react-components/react-pip)
