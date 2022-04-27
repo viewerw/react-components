@@ -1,0 +1,26 @@
+{
+  "name": "@viewer/react-pip",
+  "version": "1.0.0",
+  "description": "a picture in picture animation react component",
+  "keywords": [
+    "picture",
+    "animation",
+    "canvas"
+  ],
+  "author": "viwer <weiyaun.wang@shanbay.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "typings": "es/index.d.ts",
+  "files": [
+    "lib",
+    "es"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npm.taobao.org/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
