@@ -21,9 +21,6 @@
   "sideEffects": [
     "src/*.less"
   ],
-  "publishConfig": {
-    "registry": "https://registry.npm.org/"
-  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
