@@ -9,6 +9,9 @@
   ],
   "author": "viwer <weiyaun.wang@shanbay.com>",
   "homepage": "https://viewerw.github.io/react-components",
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "ISC",
   "main": "lib/index.js",
   "module": "es/index.js",
